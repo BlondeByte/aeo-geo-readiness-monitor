@@ -1,9 +1,10 @@
 url,label,rights_basis,rights_page_url,human_approved
-https://www.nist.gov/,Example NIST page,Federal government page - verify page-specific rights before recording,https://www.nist.gov/unleashing-american-innovation/faqs,YES
-https://www.nist.gov/,Example Census page,Federal government page - verify page-specific rights before recording,https://www.nist.gov/nist-research-library/library-faqs,YES
-https://www.nist.gov/,Example Quantum Cryptography explainer page - verify page-specific rights before recording,https://www.nist.gov/cybersecurity-and-privacy/what-quantum-cryptography,YES
-https://www.nist.gov/,Example Software and Agentic AI identity concepts page - verify page-specific rights before recording,https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper,YES
-https://www.energy.gov/,Example Super Intelligence informational page - verify page-specific rights before recording,https://www.energy.gov/topics/super-intelligence,YES
-https://www.nist.gov/,Example NIST exploring spindle performance monitoring in data-driven models page - verify page-specific rights before recording,https://www.nist.gov/publications/spindle-performance-monitoring-accelerometer-measurements-data-driven-models,YES
-https://www.nist.gov/,Example NIST exploring post-quantum cryptography standards page - verify page-specific rights before recording,https://www.nist.gov/publications/transition-post-quantum-cryptography-standards
-https://www.energy.gov/,Example DOE and advances in the AI innovation ecosystem page - verify page-specific rights before recording,https://www.energy.gov/cet/doe-advancing-ai-innovation-ecosystem,YES
+url,label,rights_basis,rights_page_url,human_approved
+https://www.nist.gov/unleashing-american-innovation/faqs,NIST Innovation FAQs,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.nist.gov/nist-research-library/library-faqs,NIST Library FAQs,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.nist.gov/cybersecurity-and-privacy/what-quantum-cryptography,NIST Quantum Cryptography Explainer,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper,NIST Agentic AI Identity,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.energy.gov/topics/super-intelligence,DOE Superintelligence,DOE government information reviewed for public-domain/reuse status,https://www.energy.gov/web-policies,YES
+https://www.nist.gov/publications/spindle-performance-monitoring-accelerometer-measurements-data-driven-models,NIST Spindle Monitoring,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.nist.gov/publications/transition-post-quantum-cryptography-standards,NIST Post-Quantum Cryptography,NIST government information reviewed for reuse rights,https://www.nist.gov/copyrights-disclaimers,YES
+https://www.energy.gov/cet/doe-advancing-ai-innovation-ecosystem,DOE AI Innovation Ecosystem,DOE government information reviewed for public-domain/reuse status,https://www.energy.gov/web-policies,YES
