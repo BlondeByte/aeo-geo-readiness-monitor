@@ -1,3 +1,5 @@
+Goal: Build AEO/GEO auditing workflow that evaluated webpages using headings, question based content, concise answers, lists, tables, data, citations and relevance indicators. 
+
 No-LLM workflow that evaluates the structural "answer readiness" for AEO/GEO searches of webpages using observable HTML/content features
 
 For each approved URL it extracts:
