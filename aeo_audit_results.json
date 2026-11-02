@@ -122,7 +122,7 @@
     "h1_count": 1,
     "h2_count": 3,
     "has_schema": true,
-    "matched_schemas": "dataset, article",
+    "matched_schemas": "article, dataset",
     "has_tables": false,
     "has_lists": true,
     "external_links": 10
